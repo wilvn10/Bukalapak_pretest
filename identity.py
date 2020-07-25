@@ -1,0 +1,5 @@
+fullName = "Test Bukalapak Wilvan"
+userName = "test_bukalapak_wilvan10"
+email = "wilvangunawan@yahoo.com"
+gender = "man"
+pw = "fisherkaan1"
